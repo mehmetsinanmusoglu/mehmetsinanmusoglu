@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm MEHMET SİNAN
+
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=mehmetsinanmusoglu&show_icons=true&theme=radical)
 
 <!--
 **mehmetsinanmusoglu/mehmetsinanmusoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
