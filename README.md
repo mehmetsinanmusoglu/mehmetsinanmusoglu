@@ -1,4 +1,7 @@
 ### Hi there 👋 I'm MEHMET SİNAN
+ In 2016, I graduated from Suleyman Demirel University with a degree in Electrical and Electronics Engineering. In order to enhance my professional skills, I worked in various jobs, but I realized that my true interest lies in software. In 2019, I took Microsoft expertise training at Bilge Adam Academy, where I gained knowledge and skills in C#, .NET, JavaScript, HTML, and CSS technologies. Later, based on a recommendation from a friend, I came across the platforms FolksDev and Patikayla.dev, which offer free training courses. These platforms sparked my desire to learn new technologies.
+
+The prevalence of Java as the backend technology used by development companies and its large community motivated me to learn Java. I have learned Java and continue to expand my knowledge in this area. I have an interest in every aspect of software development.
 
 
 
