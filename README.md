@@ -5,7 +5,7 @@ The prevalence of Java as the backend technology used by development companies a
 
 
 
-![Mehmet Sinan Github stats](https://github-readme-stats.vercel.app/api?username=mehmetsinanmusoglu&show_icons=true&theme=transparent)
+![Mehmet Sinan Github stats](https://github-readme-stats.vercel.app/api?username=mehmetsinanmusoglu&show_icons=true&theme=card )
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetsinanmusoglu&size_weight=0.5&count_weight=0.5)
 <!--
